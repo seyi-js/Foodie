@@ -4,7 +4,7 @@
 
 
 #### Demo:
-![screen shot](./images/threed_mockup(1).png)![screen shot](./images/threed_mockup(2).png)![screen shot](./images/threed_mockup.png)
+![screen shot](./images/threed_mockup1.png)![screen shot](./images/threed_mockup2.png)![screen shot](./images/threed_mockup.png)
 
 
 
